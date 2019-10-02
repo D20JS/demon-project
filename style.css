@@ -1,0 +1,44 @@
+body {
+  background-color: #ac0404;
+  text-align: center;
+  font-family: "Quicksand";
+  color: #ffffff;
+
+  margin: 0;
+}
+h1 {
+  font-size: 50px;
+  color: #ffffff;
+  font-family: "Underdog", cursive;
+  text-shadow: 0 0 10px #000;
+  text-decoration: underline;
+  margin: 0;
+}
+#epicdemon {
+  display: flex;
+  max-width: 900px;
+  margin: 0 auto 0 auto;
+}
+#epicdemon img {
+  width: 400px;
+}
+
+#epicdemon table {
+  text-align: left;
+  margin-left: 20px;
+}
+#epicdemon table td {
+  border: 2px solid #000;
+  padding: 10px;
+}
+
+#header {
+  background: #000;
+  padding: 40px 0px 15px 0px;
+  margin-bottom: 20px;
+  border-bottom: 16px solid #ee8624;
+  background-image: url("img/flame.gif");
+  background-position: bottom center;
+  background-repeat: repeat-x;
+  background-size: auto 80%;
+}
